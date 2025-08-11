@@ -28,7 +28,7 @@ _B.E. in Computer Science Engineering_
   - **Macro F1-score**: 0.69 (MFTC) & 0.40 (MFRC)  
 * Developed **MOTIV**: a **five-modality** fusion framework for moral reasoning.  
 * **Data Harmonization** for three major corpora: MFTC, MFRC, MOTIV.  
-* Implemented **multi-label Focal Loss** to handle severe class imbalance.  
+* Implemented **multi-label Focal Loss** to handle severe class imbalance.  [Project Repo](https://github.com/P-SAM-SAHIL/Synergizing-Contextual-Semantics-and-Moral-Knowledge-Graphs-Moral-Foundation-Prediction)
 
 ---
 
