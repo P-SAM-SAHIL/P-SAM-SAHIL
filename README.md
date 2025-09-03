@@ -31,7 +31,8 @@ _B.E. in Computer Science Engineering_
 ## 💼 Work Experience  
 
 ### Research Intern — Universität Hamburg _(Aug 2025 – Present)_  
-* Working with **Language Technology Group**.  
+* Working with **Language Technology Group**.
+* Working on POLAR @ SemEval-2026 Task 9 **[link](https://polar-semeval.github.io/)**
 
 ### Research Intern — National Institute of Technology Agartala _(Jan 2025 – Present)_  
 * **SemEval Shared Task 2025 - Task 11 Track 1** (Multi-label Emotion Detection) under Prof. Anupam Jamatia.  
